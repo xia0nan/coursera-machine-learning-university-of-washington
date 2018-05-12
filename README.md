@@ -1,7 +1,7 @@
 # Machine Learning Specialization - by University of Washington
 ### [Machine Learning by University of Washington](https://www.coursera.org/specializations/machine-learning)
 Taught by [Carlos Guestrin](https://www.coursera.org/instructor/guestrin), Amazon Professor of Machine Learning
-Taught by Emily Fox(https://www.coursera.org/instructor/~14032411), Amazon Professor of Machine Learning
+Taught by [Emily Fox](https://www.coursera.org/instructor/~14032411), Amazon Professor of Machine Learning
 
 In progress: Now in Course 1 Week 3
 

@@ -4,7 +4,7 @@ Taught by [Carlos Guestrin](https://www.coursera.org/instructor/guestrin), Amazo
 
 Taught by [Emily Fox](https://www.coursera.org/instructor/~14032411), Amazon Professor of Machine Learning
 
-In progress: Now in Course 1 Week 3
+In progress
 
 ## Courses
 Index | Course | Repo | Duration | Grade | Certification

@@ -4,7 +4,7 @@ Taught by [Carlos Guestrin](https://www.coursera.org/instructor/guestrin), Amazo
 
 Taught by [Emily Fox](https://www.coursera.org/instructor/~14032411), Amazon Professor of Machine Learning
 
-In progress
+#### [Certificates](https://www.coursera.org/account/accomplishments/specialization/8NZ7KWFB2R3J)
 
 ## Courses
 Index | Course | Repo | Duration | Grade | Certification
